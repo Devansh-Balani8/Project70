@@ -1,0 +1,16 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:10;
+}
+body{
+    text-align:center;
+}
+.section iframe{
+ text-align:center;   
+width: 100px;
+}
+#center p{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
+}
